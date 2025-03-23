@@ -32,7 +32,7 @@ function Hero() {
           </Button>
           <Button
             href={
-              'https://bountygame.in/#/register?invitationCode=532863012356'
+              'https://bountygame.ink/#/register?invitationCode=227873244721'
             }
             className="h-10 w-36 rounded-md sm:h-12 sm:w-48"
             style={{ background: '#ef3332' }}
