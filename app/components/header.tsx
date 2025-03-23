@@ -81,7 +81,7 @@ export function Header() {
             <div className="hidden justify-center items-center lg:flex lg:gap-10">
               <NavLinks />
               <Button
-                href="https://bountygame.in/#/register?invitationCode=532863012356"
+                href="https://bountygame.ink/#/register?invitationCode=227873244721"
                 style={{ background: '#ef3332' }}
               >
                 Get Started
@@ -145,7 +145,7 @@ export function Header() {
                             <Button href="/" outline>
                               Log in
                             </Button>
-                            <Button href="https://bountygame.in/#/register?invitationCode=532863012356">
+                            <Button href="https://bountygame.ink/#/register?invitationCode=227873244721">
                               Get Started
                             </Button>
                           </div>

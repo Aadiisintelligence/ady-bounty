@@ -1,4 +1,4 @@
-// File: /Users/rajat/Downloads/aady-bounty/app/page.tsx
+// File: /Users/rajat/AI work/ady-bounty/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

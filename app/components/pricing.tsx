@@ -98,7 +98,7 @@ function PricingCard({
               <span className="font-medium text-gray-700 p-5 ">
                 Bounty Game Invitation Code
               </span>
-              <span className="text-gray-900 p-5  border-l">532863012356</span>
+              <span className="text-gray-900 p-5  border-l">227873244721</span>
             </div>
             <div className="grid grid-cols-2  border-b">
               <span className="font-medium text-gray-700 p-5">
